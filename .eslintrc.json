@@ -1,0 +1,27 @@
+{
+    "env": {
+        "browser": true,
+        "es6": true
+    },
+    "extends": [
+        "google"
+    ],
+    "globals": {
+        "Atomics": "readonly",
+        "SharedArrayBuffer": "readonly"
+    },
+    "parserOptions": {
+        "ecmaVersion": 2018,
+        "sourceType": "module"
+    },
+    "rules": {
+        "object-curly-spacing": ["error", "always"],
+        "new-cap": ["error", { "newIsCap": false, "capIsNew": false }],
+        "no-duplicate-imports": "error",
+        "sort-imports": ["error", {
+            "ignoreCase": false
+        }],
+        "linebreak-style": 0,
+        "max-len": 0
+    }
+}
