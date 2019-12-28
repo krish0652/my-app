@@ -1,0 +1,5 @@
+{
+    "Reg_User_AlreadyExists": "User already exists",
+    "Invalid_User": "Mobile number / password is incorrect",
+    "Invalid_OTP": "Invalid OTP"
+}

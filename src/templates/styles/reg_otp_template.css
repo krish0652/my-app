@@ -1,0 +1,24 @@
+
+        body{
+            margin: 0
+        }
+        .header {
+            background: #563d7c;
+            height: 5.5rem;
+            top: 0rem;
+            width: 100%;
+            color: #ffffff;
+            z-index: 1;
+        }
+
+
+        h1 {
+            padding: 1.5rem;
+        }
+        .content {
+            margin: 2rem 1.5rem;
+        }
+        .thankyou {
+            font-size: 20px;
+            margin-bottom: 2rem;
+        }

@@ -1,0 +1,11 @@
+{
+    "basicAuth": {
+        "userName": "admin",
+        "password": "supersecret"
+    },
+    "email": {
+        "adminEmail": "a688c362f2c157",
+        "adminPwd": "f3dd617e102389"
+    }
+
+}
